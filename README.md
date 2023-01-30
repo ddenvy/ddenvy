@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://i.gifer.com/7T6E.gif](https://media.giphy.com/media/QjBGSPpXONaJEd51Pa/giphy.gif)" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/QjBGSPpXONaJEd51Pa/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -7,7 +7,7 @@
 I am Junior Unity developer</div>  
   
 
-- I am a beginner Unity developer. I started learning C# and Unity development on my own with the help of a mentor. I tried to learn C++, Python, but most of all I was hooked by game development! I also tried myself as a sound designer, as I have a lot of experience in the music industry. In November 2022, I decided to change my profession to a developer and I improve my skills every day
+- I am a beginner unit developer. I started learning C# and Unity development on my own with the help of a mentor. I tried to learn C++, Python, but most of all I was hooked by game development! I also tried myself as a sound designer, as I have a lot of experience in the music industry. In November 2022, I decided to change my profession to a developer and I improve my skills every day
 
 ⚡ My goal is to learn a new profession and find a job.  
   
