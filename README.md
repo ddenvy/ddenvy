@@ -10,6 +10,7 @@
 
 ⚡ My goal is to learn a new profession and find a job.</div>  
   
+<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open) -->
 
 <br/>  
 
