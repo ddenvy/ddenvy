@@ -83,8 +83,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-</br>
-</br>
 
 <picture>
   <source
@@ -97,7 +95,6 @@ If things goes well, this section should automatically be replaced by a list of 
     src="https://raw.githubusercontent.com/itprodavets/itprodavets/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-</br>
 </br>
   
 
