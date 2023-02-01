@@ -104,16 +104,4 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-  
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ddenvy/ddenvy/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddenvy/ddenvy/output/github-contribution-grid-snake.svg">
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ddenvy/ddenvy/output/github-contribution-grid-snake-dark.svg">
-</picture>
+
