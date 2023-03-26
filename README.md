@@ -74,25 +74,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/itprodavets/itprodavets/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itprodavets/itprodavets/output/github-contribution-grid-snake.svg">
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/itprodavets/itprodavets/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</br>
   
 
 <br/>  
