@@ -6,7 +6,7 @@
 ### <div align="center">Hi there 👋, My name is Danny </div>  
   
 
-<div align="center">I am a beginner Unity developer. I started learning C# and Unity development on my own with the help of a mentor. I tried myself as a sound designer, as I have a lot of experience in the music industry. In November 2022, I decided to change my profession to a developer and I improve my skills every day
+<div align="center">I am a beginner Unity developer/ Level designer. I started learning C# and Unity development on my own with the help of a mentor. I tried myself as a sound designer, as I have a lot of experience in the music industry. In November 2022, I decided to change my profession to a developer and I improve my skills every day
 
 ⚡ My goal is to learn a new profession and find a job.</div>  
   
