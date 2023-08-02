@@ -6,9 +6,16 @@
 ### <div align="center">Hi there 👋, My name is Danny </div>  
   
 
-<div align="center">I am a beginner Unity developer/ Level designer. I started learning C# and Unity development on my own with the help of a mentor. I tried myself as a sound designer, as I have a lot of experience in the music industry. In November 2022, I decided to change my profession to a developer and I improve my skills every day
+<div align="center">Highly motivated and enthusiastic Level designer with a passion for game development. Currently transitioning to a career in game development as a Level designer and in the process of learning and seeking opportunities to gain experience in the field. Have extensive experience playing various games. Willing to work hard and learn quickly to contribute to the success of a team.
+• Team player. I know how to work with other developers, designers, producers and project managers.
+• During my career in China, I have gained a lot of experience working in a team with people from different countries.
+• Have the skill to look for problems in the code and find solutions to complete tasks.
+• Can communicate clearly and understandably with different types of people, such as technical and non-technical team members, as well as communicate with customers and suggest product updates.
+• Easily adapt to various technical and business requirements, and quickly find solutions in new and changing situations.
+• Have a great desire to learn new technologies, tools and understand how they can be applied in projects, as well as a readiness for constant learning and self-development.
 
-⚡ My goal is to learn a new profession and find a job.</div>  
+When possible I enjoy travelling to unique destinations, write music for my future games. I spend my evenings with my dog and partner, sometimes play video games together with my friends. Can fluently communicate in Russian and English. Still continiue learn Chinese.
+Enjoy play on the guitar, ping-pong and playing Video Games.</div>  
   
 
 <br/>  
