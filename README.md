@@ -7,6 +7,7 @@
   
 
 <div align="center">Highly motivated and enthusiastic Level designer with a passion for game development. Currently transitioning to a career in game development as a Level designer and in the process of learning and seeking opportunities to gain experience in the field. Have extensive experience playing various games. Willing to work hard and learn quickly to contribute to the success of a team.
+  
 • Team player. I know how to work with other developers, designers, producers and project managers.
 • During my career in China, I have gained a lot of experience working in a team with people from different countries.
 • Have the skill to look for problems in the code and find solutions to complete tasks.
