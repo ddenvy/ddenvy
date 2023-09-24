@@ -6,17 +6,13 @@
 ### <div align="center">Hi there 👋, My name is Danny </div>  
   
 
-<div align="center">Highly motivated and enthusiastic Level designer with a passion for game development. Currently transitioning to a career in game development as a Level designer and in the process of learning and seeking opportunities to gain experience in the field. Have extensive experience playing various games. Willing to work hard and learn quickly to contribute to the success of a team.
-  
-• Team player. I know how to work with other developers, designers, producers and project managers.
-• During my career in China, I have gained a lot of experience working in a team with people from different countries.
-• Have the skill to look for problems in the code and find solutions to complete tasks.
-• Can communicate clearly and understandably with different types of people, such as technical and non-technical team members, as well as communicate with customers and suggest product updates.
-• Easily adapt to various technical and business requirements, and quickly find solutions in new and changing situations.
-• Have a great desire to learn new technologies, tools and understand how they can be applied in projects, as well as a readiness for constant learning and self-development.
+<div align="center">Hi there 👋, My name is Danny Highly motivated and enthusiastic Level designer with a passion for game development. Currently transitioning to a career in game development as a Level designer and in the process of learning and seeking opportunities to gain experience in the field. Have extensive experience playing various games. When possible I enjoy travelling to unique destinations, write music for my future games. I spend my evenings with my dog and partner, sometimes play video games together with my friends. Can fluently communicate in Russian. Advanced in English and Chinese. Enjoy play on the guitar, ping-pong and playing Video Games.
 
-When possible I enjoy travelling to unique destinations, write music for my future games. I spend my evenings with my dog and partner, sometimes play video games together with my friends. Can fluently communicate in Russian and English. Still continiue learn Chinese.
-Enjoy play on the guitar, ping-pong and playing Video Games.</div>  
+* 🌍  I'm based in China
+* 🖥️  See my portfolio at [My portfolio](http://www.artstation.com/envydany)
+* ✉️  You can contact me at [envydany@hotmail.com](mailto:envydany@hotmail.com)
+* 🧠  I'm learning Unreal Engine 5 and Level design
+* 🤝  I'm open to collaborating on any interesting projects.</div>  
   
 
 <br/>  
@@ -28,31 +24,14 @@ Enjoy play on the guitar, ping-pong and playing Video Games.</div>
 
 
 
-### Core  
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+  <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+</p>    
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
-<div align="center">  
- 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### My future study  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
  
 </div>
 
@@ -61,39 +40,16 @@ Enjoy play on the guitar, ping-pong and playing Video Games.</div>
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ddenvy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/danillobanov" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/envydany" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+### Socials
 
-<br/>  
+<p align="left"> <a href="https://discord.com/users/envydany" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ddenvy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/envydany" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/danillobanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/ddenvy"><img src="https://github-readme-stats.vercel.app/api?username=ddenvy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ddenvy's GitHub stats" /></a>
 
-<br/>  
-
-
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ddenvy&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+<a href="https://github.com/ddenvy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddenvy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
