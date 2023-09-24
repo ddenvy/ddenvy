@@ -10,7 +10,7 @@ Highly motivated and enthusiastic Level designer with a passion for game develop
 *   🖥️  See my portfolio at [My portfolio](http://www.artstation.com/envydany)
 *   ✉️  You can contact me at [envydany@hotmail.com](mailto:envydany@hotmail.com)
 *   🧠  I'm learning Unreal Engine 5, Unity and Level design
-*   🤝  I'm open to collaborating on any interesting projects
+*   🤝  I'm ready to cooperate with any interesting projects
   ### Skills 
   [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,&perline=2)](https://skillicons.dev)
 ### Socials
