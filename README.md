@@ -12,7 +12,7 @@ Highly motivated and enthusiastic Level designer with a passion for game develop
 *   🧠  I'm learning Unreal Engine 5, Unity and Level design
 *   🤝  I'm ready to cooperate with any interesting projects
   ### Skills 
-  [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,&perline=2)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,)
 ### Socials
 <p align="left"> <a href="https://www.github.com/ddenvy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/danillobanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
