@@ -4,7 +4,6 @@ Hi 👋 My name is Danil Lobanov
 Level designer
 --------------
 
-Hi there 👋, My name is Danny 
 Highly motivated and enthusiastic Level designer with a passion for game development. Currently transitioning to a career in game development as a Level designer and in the process of learning and seeking opportunities to gain experience in the field. Have extensive experience playing various games. When possible I enjoy travelling to unique destinations, write music for my future games. I spend my evenings with my dog and partner, sometimes play video games together with my friends. Can fluently communicate in Russian. Advanced in English and Chinese. Enjoy play on the guitar, ping-pong and playing Video Games.
 
 *   🌍  I'm based in China
