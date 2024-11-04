@@ -1,7 +1,8 @@
 Hi 👋 My name is Danil Lobanov
 ==============================
 
-IT Recruiter and game developer,
+IT/Technical Recruiter and Game developer
+
 Learn C#, Java，C++, Go, Unity, UE5
 --------------
 
