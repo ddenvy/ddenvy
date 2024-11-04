@@ -10,7 +10,7 @@ I'm Technical Recruiter and Game developer ！
 *   🤝  I'm ready to cooperate with any interesting projects
   ### Skills 
 ![My Skills](https://skillicons.dev/icons?i=unity,unreal,cs,cpp,java,go)
- Socials
+ ### Socials
 <p align="left">
   <a href="https://www.github.com/ddenvy" target="_blank" rel="noreferrer">
     <picture>
