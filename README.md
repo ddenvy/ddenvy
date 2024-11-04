@@ -1,7 +1,7 @@
-Hi 👋 My name is Danil Lobanov
+Hi 👋 My name is Danil Lobanov. I'm Technical Recruiter and Game developer ！
 ==============================
 
-IT/Technical Recruiter and Game developer
+
 
 Learn C#, Java，C++, Go, Unity, UE5
 --------------
