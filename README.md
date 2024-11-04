@@ -28,13 +28,13 @@ I'm Technical Recruiter and Game developer ！
   </a>
   <a href="https://t.me/envydany" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/0A66C2" />
+      <img src="https://cdn.simpleicons.org/telegram/0A66C2" width="32" height="32" />
     </picture>
   </a>
 </p>
-<b>My GitHub Stats</b>
+
 
 <a href="http://www.github.com/ddenvy"><img src="https://github-readme-stats.vercel.app/api?username=ddenvy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ddenvy's GitHub stats" /></a>
 
