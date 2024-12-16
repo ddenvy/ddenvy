@@ -1,7 +1,7 @@
 Hi 👋 My name is Danil Lobanov. 
 ==============================
 
-I'm Technical Recruiter and Game developer ！
+I'm Junior developer and Game developer ！
 --------------
 
 *   🌍  I'm based in China
