@@ -1,15 +1,15 @@
 Hi 👋 My name is Danil Lobanov. 
 ==============================
 
-I'm Junior developer and Game developer ！
+I'm Full-stack developer ！
 --------------
 
 *   🌍  I'm based in China
-*   🖥️  See my portfolio at [My portfolio](https://ddenvy.github.io/)
 *   ✉️  You can contact me at [danil.lobanov@outlook.com](mailto:danil.lobanov@outlook.com)
 *   🤝  I'm ready to cooperate with any interesting projects
+*   
   ### Skills 
-![My Skills](https://skillicons.dev/icons?i=unity,unreal,cs,cpp,java,go)
+![My Skills](https://skillicons.dev/icons?i=cs,java,go,javascript,nextjs)
  ### Socials
 <p align="left">
   <a href="https://www.github.com/ddenvy" target="_blank" rel="noreferrer">
