@@ -7,7 +7,7 @@ I'm Full-stack developer ！
 *   🌍  I'm based in China
 *   ✉️  You can contact me at [danil.lobanov@outlook.com](mailto:danil.lobanov@outlook.com)
 *   🤝  I'm ready to cooperate with any interesting projects
-*   
+*   My professional background are comprehensively detailed in my resume, which is available in both [English](https://github.com/ddenvy/ddenvy/blob/main/resume_en.md) and [Russian](https://github.com/ddenvy/ddenvy/blob/main/resume_ru.md) for your convenience.
   ### Skills 
 ![My Skills](https://skillicons.dev/icons?i=cs,java,go,javascript,nextjs)
  ### Socials
