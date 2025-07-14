@@ -22,15 +22,6 @@
 - **[Task Management System](https://github.com/ddenvy/Task-Management-System)**: Task and project management system (Go, Web App).
 - **Portfolio**: [ddenvy.tech](http://ddenvy.tech/) — Personal site showcasing my projects and skills.
 
-## 📊 GitHub Stats
-<p align="left">
-  <a href="http://www.github.com/ddenvy">
-    <img src="https://github-readme-stats.vercel.app/api?username=ddenvy&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ddenvy's GitHub stats" />
-  </a>
-  <a href="http://www.github.com/ddenvy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddenvy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</p>
 
 ## 📱 Socials
 <p align="left">
