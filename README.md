@@ -1,29 +1,59 @@
 # Hi, I'm Danil Lobanov 👋
 
-🌍 **Location**: China  
-✉️ **Contact**: [danil.lobanov@outlook.com](mailto:danil.lobanov@outlook.com)  
-🔗 **Portfolio**: [ddenvy.tech](http://ddenvy.tech/)  
-🤝 **About Me**: Passionate about creating scalable solutions with clean architecture and high test coverage.
+Senior .NET Backend Engineer focused on scalable systems for **games, SaaS, and IoT**.  
+I build microservices, real-time pipelines, and backend infrastructure with a strong focus on performance, clean architecture, and production reliability.
 
-## 🛠 Skills
-![Skills](https://skillicons.dev/icons?i=go,cs,js,ts,react,nextjs,nodejs,dotnet,postgres,redis,mongodb,rabbitmq,kafka,docker,kubernetes,git,grafana,prometheus)
+🌍 **Work setup:** Remote · Hybrid · Open to relocate  
+✉️ **Email:** [danil.lobanov@outlook.com](mailto:danil.lobanov@outlook.com)  
+🔗 **Portfolio:** [ddenvy.tech](http://ddenvy.tech/)  
+💼 **LinkedIn:** [linkedin.com/in/envydany](https://www.linkedin.com/in/envydany)  
+📬 **Telegram:** [@envydany](https://t.me/envydany)
 
-- **Languages & Frameworks**: Go (Gin), C# (ASP.NET Core), JavaScript, TypeScript, React, Next.js
-- **Databases & Queues**: PostgreSQL, Redis, MongoDB, SQL Server, RabbitMQ, Kafka
-- **Architecture**: Microservices, Clean Architecture, DDD, Event-Driven
-- **DevOps**: Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, Swagger
-- **Testing**: Go testing, testify, mockery, xUnit, NSubstitute, Moq
-- **Methodologies**: Agile, Scrum, Kanban
+---
 
-## 🚀 Key Projects
-- **[QuickMind](https://github.com/ddenvy/QuickMind)**: Flashcard learning app using spaced repetition (C#, Desktop App).
-- **[Bank App](https://github.com/ddenvy/bank-app)**: Banking application with account management and transaction processing (Go, Backend).
-- **[Budget Telegram Bot](https://github.com/ddenvy/budget-telegram-bot)**: Telegram bot for personal finance and budget tracking (Go, Telegram API).
-- **[Task Management System](https://github.com/ddenvy/Task-Management-System)**: Task and project management system (Go, Web App).
-- **Portfolio**: [ddenvy.tech](http://ddenvy.tech/) — Personal site showcasing my projects and skills.
+## ⚙️ Core Stack
 
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,go,postgres,redis,rabbitmq,docker,git,githubactions,grafana,prometheus)
 
-## 📱 Socials
+- **Backend:** C#, .NET 6/8, ASP.NET Core, Go
+- **Architecture:** Microservices, Clean Architecture, DDD, Event-Driven Systems
+- **Data & Messaging:** PostgreSQL, Redis, RabbitMQ, MassTransit
+- **APIs & Infra:** REST, gRPC, Docker, GitHub Actions
+- **Observability & Testing:** Prometheus, Grafana, xUnit, NSubstitute, FluentAssertions
+
+---
+
+## 🚀 What I’m working on
+
+- 🌱 **StrawPod** — smart hydroponic / IoT project with .NET backend and telemetry pipelines
+- 🎮 **Game backend systems** — matchmaking, real-time state sync, progression logic
+- 🤖 **Automation tools** — backend services, bots, notification pipelines, internal platforms
+
+---
+
+## 📌 Featured Projects
+
+- **[QuickMind](https://github.com/ddenvy/QuickMind)** — flashcard learning app with spaced repetition
+- **[Bank App](https://github.com/ddenvy/bank-app)** — backend-focused banking application in Go
+- **[Budget Telegram Bot](https://github.com/ddenvy/budget-telegram-bot)** — Telegram bot for personal finance workflows
+- **[Task Management System](https://github.com/ddenvy/Task-Management-System)** — task and project management backend/web app
+
+> More projects and case studies: [ddenvy.tech](http://ddenvy.tech/)
+
+---
+
+## 🧠 Engineering Focus
+
+- Scalable backend architecture
+- Distributed systems and async processing
+- Game servers and real-time services
+- SaaS automation and internal platforms
+- IoT telemetry and device-integrated systems
+
+---
+
+## 📱 Connect with me
+
 <p align="left">
   <a href="https://www.github.com/ddenvy" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
