@@ -17,10 +17,10 @@
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/Email-D4A76A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C17A5F)](mailto:danil.lobanov@outlook.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-8FA08F?style=for-the-badge&logo=firefox&logoColor=white&labelColor=6B7F6E)](https://ddenvy.tech)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4A76A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C17A5F)](https://linkedin.com/in/envydany)
-  [![Telegram](https://img.shields.io/badge/Telegram-8FA08F?style=for-the-badge&logo=telegram&logoColor=white&labelColor=6B7F6E)](https://t.me/envydany)
+  [![Email Outlook](https://img.shields.io/badge/Email%20Outlook-2D2926?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:danil.lobanov@outlook.com)
+  [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-2D2926?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ddenvy.tech)
+  [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-2D2926?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/envydany)
+  [![Message on Telegram](https://img.shields.io/badge/Message%20on%20Telegram-2D2926?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/envydany)
 
 </div>
 
@@ -124,20 +124,20 @@ AI/LLM integration                ███████████████�
 
 <div align="center">
 
-  <a href="https://www.github.com/ddenvy" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" />
+  <a href="https://www.github.com/ddenvy" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/envydany" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" />
+  <a href="https://www.linkedin.com/in/envydany" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/envydany" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/telegram/0A66C2" width="36" height="36" />
+  <a href="https://t.me/envydany" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/telegram/0A66C2" width="36" height="36" alt="Telegram profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:danil.lobanov@outlook.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/C17A5F" width="36" height="36" />
+  <a href="mailto:danil.lobanov@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="36" height="36" alt="Send email to Danil Lobanov" />
   </a>
 
 </div>
