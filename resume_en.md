@@ -1,68 +1,61 @@
-# Danil Lobanov
+# DANIL LOBANOV
 
-Fullstack Developer with over 3 years of experience in designing and developing high-performance web applications and microservice architectures. Specializing in backend development, system optimization, and scalable application design. Proficient in modern technologies such as Go (Golang), C#, .NET, Docker. Proven ability to solve complex technical challenges, improve system performance, and implement innovative solutions.
+Senior Backend Engineer | .NET, Distributed Systems, Real-Time Platforms
 
----
-
-## **Contact Information**
-- **GitHub**: [Github](https://github.com)  
-- **LinkedIn**: [Linkedin](https://linkedin.com)  
-- **Telegram**: [@envydany](https://t.me/envydany)  
-- **Email**: danil.lobanov@outlook.com  
+- Email: danil.lobanov@outlook.com
+- LinkedIn: [linkedin.com/in/envydany](https://linkedin.com/in/envydany)
+- Website: [ddenvy.tech](https://ddenvy.tech)
 
 ---
 
-## **Skills**
-- **Backend Development**: Go (Golang), C#, .NET Framework/Core, ASP.NET MVC/Web API, RESTful APIs, gRPC  
-- **Frontend Development**: Next.js, JavaScript, HTML5, CSS3  
-- **Databases**: PostgreSQL, MySQL, Redis, MongoDB  
-- **Integrations and Message Brokers**: Kafka, NATS, RabbitMQ, MQTT  
-- **Architecture and DevOps**: Docker, Kubernetes, Helm  
+## Technical Skills
+
+- Languages and Frameworks: C#, .NET 8/6, ASP.NET Core, Go (Golang), Unity (Multiplayer / Netcode)
+- Networking and Multiplayer: TCP/UDP, socket programming, REST, gRPC, WebSockets, SignalR, server-authoritative game logic, matchmaking and session orchestration
+- Messaging and Event-Driven: RabbitMQ, Kafka, MassTransit, event-driven architectures, Saga pattern
+- Observability and Reliability: Prometheus, Grafana, structured logging, metrics (latency, throughput, queue depth)
+- DevOps and Testing: Docker, Kubernetes, Helm, GitLab CI/CD, GitHub Actions, xUnit, Moq, NSubstitute, integration tests
 
 ---
 
-## **Work Experience**
+## Professional Experience
 
-### **Fullstack Developer – Baidu, Inc.**  
-*(Feb 2024 – Present)*  
-**Project**: Intelligent text input system  
-Development of the server-side for one of Baidu's key products — the intelligent text input system (Input Method).
+### Senior Game Backend Engineer | Appfox
+Oct 2025 - Present | Remote
 
-#### **Responsibilities and Achievements**:
-* Developed new microservices for business functions related to word recommendations and synchronization of user data across devices using Golang (Gin).
-* Configured integration with internal Baidu services such as push notifications, analytics, and personalization systems.
-* Improved the performance of one of the autocomplete services by 20% through cache optimization and SQL query improvements.
-* Reduced production errors by 30% after implementing additional checks and logging.
-* Created several ready-to-use microservice templates for new features, reducing initial development setup time from 2 days to 1 day.
-* Received positive feedback from the team lead for proactive participation in incident analysis and assisting colleagues in refactoring legacy code.
+**Stack**: C#, .NET 8, ASP.NET Core, PostgreSQL, EF Core, Redis, RabbitMQ, MassTransit, Kafka, SignalR, Docker, Kubernetes, CQRS, MediatR, GitLab CI/CD
 
-**Tech Stack**: Golang, Gin, MySQL, Redis, Kafka, Baidu Cloud, Jenkins
+- Engineered a hybrid matchmaking service using Redis and PostgreSQL on Azure Kubernetes Service, reducing queue time by 60% for concurrent multiplayer sessions.
+- Redesigned the combat simulation backend with CQRS, MediatR, and stateless processing, increasing throughput by 4x without additional infrastructure.
+- Replaced HTTP polling with SignalR real-time channels, reducing game traffic by 40% and improving connection reliability.
+- Implemented distributed transaction orchestration with MassTransit Saga across Identity, Gateway, Combat, and Inventory services.
+- Built Kubernetes deployment workflows with Helm, GitLab CI/CD, automated rollback, and zero-downtime release support.
+
+### .NET Backend Engineer | CRMSystems (Valletta Software)
+Mar 2023 - Oct 2025 | Remote
+
+**Stack**: C#, .NET 6/8, ASP.NET Core, PostgreSQL, EF Core, RabbitMQ, MassTransit, Redis, CQRS, MediatR, Docker, GitHub Actions, xUnit, Moq, NSubstitute
+
+- Built backend services for a B2B recruitment CRM used by HR teams across Europe, covering candidate management, notifications, analytics, and reporting.
+- Designed asynchronous notification pipelines with RabbitMQ, MassTransit, SMTP, and Telegram integrations.
+- Optimized PostgreSQL and Redis-backed reporting workflows, improving performance and reliability for high-volume CRM operations.
+- Delivered REST APIs and backend services with .NET 6/8, ASP.NET Core, EF Core, CQRS, MediatR, Docker, and GitHub Actions.
+- Improved backend quality through integration tests, xUnit, NSubstitute, CI/CD checks, and clearer service boundaries.
+
+### .NET Backend Engineer | IoT Smart Agricultural Container System (Empire Of Bloom)
+Sep 2021 - Feb 2023 | Guangzhou, China
+
+**Stack**: C#, .NET, MQTT, Modbus RTU, gRPC, RabbitMQ, PostgreSQL, Docker, Azure IoT Hub, Kafka, CQRS
+
+- Developed .NET microservices for an IoT smart container platform handling task scheduling, telemetry, sensor monitoring, and reporting.
+- Built gRPC and message-driven communication between internal services and IoT device workflows.
+- Integrated MQTT, Modbus RTU, RabbitMQ, PostgreSQL, Docker, and Azure IoT Hub for real-time operational data processing.
+- Improved service reliability with automated tests, CI/CD workflows, structured logging, and production observability.
 
 ---
 
-### **Fullstack Developer – Shanghai Jujie Information Technology Co., Ltd**  
-*(Feb 2022 – March 2024)*  
-**Project**: CRM system for customer service
-The company developed a large CRM system for customer service, including chat, telephony, reporting, and a knowledge base. The system was designed to support integration with platforms of major clients, ranging from local Chinese companies to international corporations.
+## Education
 
-#### **Responsibilities and Achievements**:
-* Developed several key modules of the system using ASP.NET MVC with C#, configured database interactions via Entity Framework, and implemented caching based on Redis.
-* Built a reporting module using SSRS, enabling dynamic report generation based on client parameters.
-* Implemented integration with external systems via REST and SOAP APIs and prepared technical documentation (interface specifications, setup instructions, and deployment guides).
-* Reduced average client integration time from 2 weeks to 5 days by optimizing API structure and creating ready-to-use integration templates.
-* Increased the performance of the reporting module by 30% by implementing optimized SQL queries and result caching.
-* Reduced first-line support incidents by 25% through detailed instructions and automation of certain deployment settings.
-
-**Tech Stack**: C#, React, Next.js, ASP.NET MVC, Web API, MS SQL Server, Redis, Entity Framework, REST API, SOAP, jQuery, Razor, RabbitMQ 
-
----
-
-## **Education**
-
-### **National Research Nuclear University MEPhI**  
-Master’s Degree in Software Engineering  
-*(2024 – 2026)*  
-
-### **Peoples' Friendship University of Russia (RUDN)**  
-Bachelor’s Degree in Agronomy  
-*(2011 – 2015)*  
+M.Sc. in Software Engineering, 2024 - 2026  
+Moscow Engineering Physics Institute (MEPhI), Russia  
+GPA: 3.7
