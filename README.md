@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ghibli-banner.png" width="100%" alt="Ghibli workspace banner" />
+  <img src="./assets/ghibli-github-banner.png" width="100%" alt="Ghibli workspace banner" />
 </div>
 
 <h1 align="center">
