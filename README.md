@@ -69,13 +69,15 @@ I transitioned from lab work to software engineering, which gives me a unique pe
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddenvy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=3b82f6&text_color=cbd5e1&icon_color=dc2626&ring_color=3b82f6" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=ddenvy&theme=tokyonight&hide_border=true&background=030712&stroke=3b82f6&ring=dc2626&fire=dc2626&currStreakLabel=3b82f6" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddenvy&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=3b82f6&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddenvy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=3b82f6&text_color=cbd5e1&icon_color=dc2626&ring_color=3b82f6&v=1" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ddenvy&theme=tokyonight&hide_border=true&background=030712&stroke=3b82f6&ring=dc2626&fire=dc2626&currStreakLabel=3b82f6&v=1" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddenvy&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=3b82f6&langs_count=8&v=1" alt="Top Languages" />
+</p>
 
 ---
 
